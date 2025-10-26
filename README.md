@@ -22,7 +22,7 @@
 ```yaml
 name: Liam Filer
 located_in: Bristol , England
-current_job: Data Analyst @ Lloyds Banking Group
+current_job: Software Engineer @ Senitor
 education:
   [
     "T-Level Student @ Access Creative College",
@@ -40,7 +40,7 @@ fields_of_interests:
     "Game Development",
     "DevOps",
   ]
-currently_learning: ["SQL, C#, GCP, Docker"]
+currently_learning: ["SQL, C#, CSS, JS"]
 2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Music", "Football", "Art", "Movies"]
 ```
