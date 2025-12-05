@@ -40,7 +40,7 @@ fields_of_interests:
     "Game Development",
     "DevOps",
   ]
-currently_learning: ["SQL, C#, CSS, JS"]
+currently_learning: ["SQL, C#, CSS, XAML"]
 2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Music", "Football", "Art", "Movies"]
 ```
